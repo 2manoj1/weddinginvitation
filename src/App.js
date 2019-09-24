@@ -1,24 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import './commoncss/bootstrap.css';
+import './commoncss/font-icon.css';
 import './App.css';
+import Header from './components/Header';
+import WeadingDate from './components/WeadingDate';
+import CountDown from './components/CountDown';
+import WeadingDetails from './components/WeadingDetails2';
+import Invitation from './components/Invitation';
+import Weadingloaction from './components/Weadingloaction'
+import Contact from './components/Contact';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+     <WeadingDate />
+     <CountDown />
+     <Invitation />
+     <Weadingloaction />
+     <WeadingDetails />
+     <Contact />
     </div>
   );
 }
