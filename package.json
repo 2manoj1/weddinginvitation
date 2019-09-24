@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/2manoj1/2manoj.github.io",
+  "homepage": "https://github.com/2manoj1/weddinginvitation",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
