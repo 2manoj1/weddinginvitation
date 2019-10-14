@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weddinginvitation/static/css/main.3ad28e37.chunk.css",
-    "main.js": "/weddinginvitation/static/js/main.69029ff4.chunk.js",
-    "main.js.map": "/weddinginvitation/static/js/main.69029ff4.chunk.js.map",
+    "main.css": "/weddinginvitation/static/css/main.2020baa9.chunk.css",
+    "main.js": "/weddinginvitation/static/js/main.4907158e.chunk.js",
+    "main.js.map": "/weddinginvitation/static/js/main.4907158e.chunk.js.map",
     "runtime~main.js": "/weddinginvitation/static/js/runtime~main.28db7b44.js",
     "runtime~main.js.map": "/weddinginvitation/static/js/runtime~main.28db7b44.js.map",
-    "static/js/2.96fdda44.chunk.js": "/weddinginvitation/static/js/2.96fdda44.chunk.js",
-    "static/js/2.96fdda44.chunk.js.map": "/weddinginvitation/static/js/2.96fdda44.chunk.js.map",
+    "static/js/2.dccb7cc5.chunk.js": "/weddinginvitation/static/js/2.dccb7cc5.chunk.js",
+    "static/js/2.dccb7cc5.chunk.js.map": "/weddinginvitation/static/js/2.dccb7cc5.chunk.js.map",
     "index.html": "/weddinginvitation/index.html",
-    "precache-manifest.a6370eb38ddf8f1b23df35d9be512b2a.js": "/weddinginvitation/precache-manifest.a6370eb38ddf8f1b23df35d9be512b2a.js",
+    "precache-manifest.d6932ed9b8200db551b0ef1d18b216ff.js": "/weddinginvitation/precache-manifest.d6932ed9b8200db551b0ef1d18b216ff.js",
     "service-worker.js": "/weddinginvitation/service-worker.js",
-    "static/css/main.3ad28e37.chunk.css.map": "/weddinginvitation/static/css/main.3ad28e37.chunk.css.map",
+    "static/css/main.2020baa9.chunk.css.map": "/weddinginvitation/static/css/main.2020baa9.chunk.css.map",
     "static/media/App.css": "/weddinginvitation/static/media/slider-1-1600x900.bf692460.jpg",
     "static/media/a123.png": "/weddinginvitation/static/media/a123.9b14f9e6.png",
     "static/media/ap.png": "/weddinginvitation/static/media/ap.7f5bc7f3.png",
@@ -21,6 +21,7 @@
     "static/media/met3.jpg": "/weddinginvitation/static/media/met3.0403d150.jpg",
     "static/media/met4.jpg": "/weddinginvitation/static/media/met4.99e3843b.jpg",
     "static/media/met5.jpg": "/weddinginvitation/static/media/met5.7c921ddc.jpg",
+    "static/media/w.png": "/weddinginvitation/static/media/w.32d27b8e.png",
     "static/media/w22.png": "/weddinginvitation/static/media/w22.19ae42db.png",
     "static/media/font-icon.css": "/weddinginvitation/static/media/webzed-font-1.e65681d7.svg"
   }

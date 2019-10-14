@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f32e9425c1dffa87fd0c94e17f329278",
+    "revision": "38de28360387e9fa1cc85b5afa2911ff",
     "url": "/weddinginvitation/index.html"
   },
   {
-    "revision": "5d0f18bd33b3191f8204",
-    "url": "/weddinginvitation/static/css/main.3ad28e37.chunk.css"
+    "revision": "26432cab08dca1670932",
+    "url": "/weddinginvitation/static/css/main.2020baa9.chunk.css"
   },
   {
-    "revision": "1c06872badd8ea0f3314",
-    "url": "/weddinginvitation/static/js/2.96fdda44.chunk.js"
+    "revision": "d7d0695ce3688a476bfb",
+    "url": "/weddinginvitation/static/js/2.dccb7cc5.chunk.js"
   },
   {
-    "revision": "5d0f18bd33b3191f8204",
-    "url": "/weddinginvitation/static/js/main.69029ff4.chunk.js"
+    "revision": "26432cab08dca1670932",
+    "url": "/weddinginvitation/static/js/main.4907158e.chunk.js"
   },
   {
     "revision": "64881349ae386a4f76a1",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bf69246006360e41647ecae601e247fa",
     "url": "/weddinginvitation/static/media/slider-1-1600x900.bf692460.jpg"
+  },
+  {
+    "revision": "32d27b8e2d1309228e888d54285197d3",
+    "url": "/weddinginvitation/static/media/w.32d27b8e.png"
   },
   {
     "revision": "19ae42dbe0f8ac04f58993f4e70425a6",
