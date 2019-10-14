@@ -263,6 +263,19 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 /* ---------------------------------
 7. WEDDING DETAILS AREA
 --------------------------------- */
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 
 .wedding-details{ overflow: hidden; position: relative; }
 
@@ -332,12 +345,16 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 11. FOOTER
 --------------------------------- */
 
-footer{ position: relative; z-index: 1; padding-top: 70px; }
+footer{ position: relative; z-index: 1; padding-top: 10px; }
 
 footer:after{ content: ''; position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: -1;
 	opacity: .8; background: url(./images/Background_Circle.png); }
 	
 footer ul > li > a{ padding: 10px 15px; }
+
+footer ul > li > a > i:hover{ color: aqua }
+footer ul > li > a > img{ vertical-align: bottom; width: 24px; height:24px; }
+footer ul > li > a > img:hover{ background-color: red }
 
 
 footer .logo-wrapper .icon{ color: #E45F74; }
