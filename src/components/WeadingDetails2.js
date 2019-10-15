@@ -27,7 +27,7 @@ const WeadingDetails = () => {
                                         <span className="date">December 25, 2018</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>After four hours of long drive we meet in her home with full of family members, fall in love with each other.</p>
+                                        <p>After four hours of long drive we meet in her home with full of family member, fall in love with each other.</p>
                                     </div>
                                 </div>
                             </li>
@@ -39,7 +39,7 @@ const WeadingDetails = () => {
                                         <span className="date"><i className="icon icon-date"></i>December 30, 2018</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>With excitement came to her home to meet her again. Our first date. She kiss my hand and giving her red rose and chocolate.</p>
+                                        <p>Came to her home with excitement to meet her again. Our first date. She kisses my hand and I give her red roses and chocolate.</p>
                                     </div>
                                 </div>
                             </li>
