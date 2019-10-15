@@ -18,7 +18,7 @@ const Weadingloaction = () => {
 							<i className="icon icon-ciurclke"></i>
 							<h4 className="title">WEDDING CEREMONY</h4>
                             <p>Wednesday, December 11th, 2019</p>
-							<p>Sri Krishna Ladge</p>
+							<p>Sri Krishna Lodge</p>
                             <p><i className="icon icon-email-plane"></i></p>
                             <p>Gantar, Memari, Purba Burdwan, West Bengal</p>
                             <p>

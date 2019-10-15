@@ -11,7 +11,7 @@ const Invitation = () => {
                     <div className="col-sm-10">
                         <div className="heading">
                             <h2>Hello!</h2>
-                            <p>We invited you to celebrate our wedding</p>
+                            <p>We invite you to be with us as we celebrate our new life together</p>
                             <span className="heading-bottom"><i className="icon icon-star"></i></span>
                         </div>
 
@@ -23,7 +23,7 @@ const Invitation = () => {
                                 </div>
                                 <div className="desc-groom">
                                     <h3>Manoj Mukherjee</h3>
-                                    <h5>Subal Mukherjee</h5>
+                                    <h5>S/O Subal Mukherjee</h5>
                                     <h5>Mamata Mukherjee</h5>
                                 </div>
                             </div>
@@ -38,7 +38,7 @@ const Invitation = () => {
                                 </div>
                                 <div className="desc-bride">
                                     <h3>Iva Chatterjee</h3>
-                                    <h5>Prabir Chatterjee</h5>
+                                    <h5>D/O Prabir Chatterjee</h5>
                                     <h5>Iti Chatterjee</h5>
                                 </div>
                             </div>
