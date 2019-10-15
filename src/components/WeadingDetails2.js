@@ -23,11 +23,11 @@ const WeadingDetails = () => {
                                 <div className="timeline-badge" style={{backgroundImage: `url(${img1})`}}></div>
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
-                                        <h3 className="timeline-title">First We Meet</h3>
+                                        <h3 className="timeline-title">First We Met</h3>
                                         <span className="date">December 25, 2018</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>After four hours of long drive we meet in her home with full of family member, fall in love with each other.</p>
+                                        <p>After four hours of long drive we met in her home with full of family members, fall in love with each other.</p>
                                     </div>
                                 </div>
                             </li>
@@ -39,7 +39,7 @@ const WeadingDetails = () => {
                                         <span className="date"><i className="icon icon-date"></i>December 30, 2018</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>Came to her home with excitement to meet her again. Our first date. She kisses my hand and I give her red roses and chocolate.</p>
+                                        <p>Came to her home with excitement to meet her again. Our first date. She kisses my hand and I gave her red roses and chocolate.</p>
                                     </div>
                                 </div>
                             </li>
@@ -51,7 +51,7 @@ const WeadingDetails = () => {
                                         <span className="date">May 16, 2019</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>It's our engagement time. We start new relationship.</p>
+                                        <p>It's our engagement time. We started new relationship.</p>
                                     </div>
                                 </div>
                             </li>
