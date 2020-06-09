@@ -1,5 +1,3 @@
-window.alert('hi krista! how are you?');
-
-function hello(s) {
-window.alert(s);
+function isValidValue(str) {
+  return typeof str === "string" && str.length >= 1 && str.length <= 255
 }
